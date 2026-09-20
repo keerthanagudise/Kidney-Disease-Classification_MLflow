@@ -24,7 +24,10 @@ list_of_files = [
     "setup.py",
     "research/trials.ipynb",
     "templates/index.html"
-    "test.py"
+<<<<<<< HEAD
+
+=======
+>>>>>>> 9624dad93244df0df79cb033606d017dfbd8d2d8
 
 
 ]
